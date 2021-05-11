@@ -1,0 +1,11 @@
+Mask-RCNN 모델 & 설정 파일 다운로드
+• 모델 파일
+▪ http://download.tensorflow.org/models/object_detection/
+mask_rcnn_inception_v2_coco_2018_01_28.tar.gz
+• 설정 파일
+▪ https://github.com/opencv/opencv_extra/blob/master/testdata/dnn/
+mask_rcnn_inception_v2_coco_2018_01_28.pbtxt
+• 클래스 이름 파일
+▪ c:\coding\python\opencv\ch13\mask_rcnn\coco_90.names
+• frozen_inference_graph.pb, mask_rcnn_inception_v2_coco_2018_01_28.pbtxt 파일을
+c:\coding\python\opencv\ch13\mask_rcnn\ 폴더에 저장
